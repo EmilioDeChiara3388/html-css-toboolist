@@ -1,0 +1,11 @@
+header{
+    margin-left: 3rem;
+}
+
+h1{
+    display: inline-block;
+}
+
+.logo{
+    vertical-align: middle;
+}
