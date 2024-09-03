@@ -144,3 +144,21 @@ span{
     border-radius: 30px;
     margin-left: 1rem;
 }
+
+.website{
+    display: inline-block;
+    color: white;
+    background-color: #ed5ca7;
+    padding: 3px;
+    border-radius: 30px;
+    margin-left: 1rem;
+}
+
+.sales{
+    display: inline-block;
+    color: white;
+    background-color: #a3d116;
+    padding: 3px;
+    border-radius: 30px;
+    margin-left: 1rem;
+}
