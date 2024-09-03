@@ -1,5 +1,13 @@
+body{
+    background-color: #f6f8f9;
+    margin: 0;
+    padding: 0;
+}
 header{
-    margin-left: 3rem;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 3rem;
+    background-color: white;
 }
 
 h1{
@@ -7,5 +15,45 @@ h1{
 }
 
 .logo{
+    vertical-align: middle;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+}
+
+.selection{
+    margin-top: 3rem;
+    width: 70%;
+    height: 50px;
+    box-sizing: border-box;
+    background-color: white;
+    border-bottom: 1px solid #f6f8f9;
+    border-radius: 5px;
+    padding: 6px;
+}
+
+.choise{
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    line-height: normal;
+}
+
+#task{
+    color: white;
+    background-color: #14aaf5;
+    border-radius: 3px;
+    padding: 8px;
+    vertical-align: middle;
+}
+
+#other{
+    color: lightgray;
+    background-color: white;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 8px;
     vertical-align: middle;
 }
