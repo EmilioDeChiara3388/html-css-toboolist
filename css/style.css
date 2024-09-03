@@ -39,6 +39,7 @@ h1{
     text-align: center;
     vertical-align: middle;
     line-height: normal;
+    
 }
 
 #task{
@@ -47,6 +48,7 @@ h1{
     border-radius: 3px;
     padding: 8px;
     vertical-align: middle;
+    margin-left: 3rem;
 }
 
 #other{
@@ -56,4 +58,89 @@ h1{
     border-radius: 5px;
     padding: 8px;
     vertical-align: middle;
+}
+
+h2{
+    color: #565a62;
+    margin-left: 3.5rem;
+}
+
+.new-task{
+    width: 70%;
+    margin-left: 3,5rem;
+    margin-top: 0px;
+    background-color: white;
+}
+
+span{
+    color: #565a62;
+}
+
+.checkmark{
+    color: green;
+    width: 40px;
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 3px;
+    margin-left: 3.5rem;
+}
+
+.editorial{
+    display: inline-block;
+    color: white;
+    background-color: #14aaf5;
+    padding: 3px;
+    border-radius: 30px;
+    margin-left: 1rem;
+}
+
+.mob-app{
+    margin-top: 10px;
+    color: #565a62;
+}
+
+.q1-goals{
+    display: inline-block;
+    color: white;
+    background-color: #bc7ceb;
+    padding: 3px;
+    border-radius: 30px;
+    margin-left: 1rem;
+}
+
+.interview{
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.to-do-mark{
+    color: red;
+    width: 40px;
+    border: 1px solid red;
+    border-radius: 50%;
+    padding: 3px;
+    margin-left: 3.5rem;
+}
+
+.recruiting{
+    display: inline-block;
+    color: white;
+    background-color: #2cc6ab;
+    padding: 3px;
+    border-radius: 30px;
+    margin-left: 1rem;
+}
+
+.summit{
+        margin-top: 10px;
+        color: #565a62;
+}
+
+.mobile{
+    display: inline-block;
+    color: white;
+    background-color: #ff9b00;
+    padding: 3px;
+    border-radius: 30px;
+    margin-left: 1rem;
 }
